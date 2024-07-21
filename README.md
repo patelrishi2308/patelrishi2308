@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Rishi Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science at Illinois Institute of Technology.</h3>
+<h3 align="center">A passionate Full Stack MERN Developer from USA, Who's currently perusing a Master's Degree in Computer Science at Indiana University Bloomington.</h3>
 
-- 🔭 I’m currently working as Software Engineer Intern at @NEW EIC
+- 🔭 I’m currently working as Software Engineer Intern at @SharpGurus-USA
 
-- 🌱 I’m currently learning **React.Js, Azure Cloud,**
+- 🌱 I’m currently learning **Mainframe Teachnology**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](https://vijaybharvad.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO-WEB](https://patelrishi23.netlify.app/)
 
 - 💬 Ask me about **Python, CI/CD, React.Js, MongoDB, GraphQL, MySql, MernStack**
 
-- 📫 How to reach me **vbharvad@hawk.iit.edu**
+- 📫 How to reach me **rsp3@iu.edu**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1te69vTUAPqpeyhmgkKhTw50ivC5WO81J/view)
+- 📄 Know about my experiences [RESUME](https://patelrishi23.netlify.app/RISHI%20PATEL%20RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
