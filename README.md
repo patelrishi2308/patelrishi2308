@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vijay Bharvad</h1>
+<h1 align="center">Hi 👋, I'm Rishi Patel</h1>
 <h3 align="center">A passionate Full Stack Developer from USA, Who's currently perusing a Master's Degree in Computer Science at Illinois Institute of Technology.</h3>
 
 - 🔭 I’m currently working as Software Engineer Intern at @NEW EIC
